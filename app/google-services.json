@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524705110144",
+    "project_id": "e-assessment-hub-140c3",
+    "storage_bucket": "e-assessment-hub-140c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524705110144:android:4e729c8669b73af1e2ee65",
+        "android_client_info": {
+          "package_name": "com.example.e_assessment_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBurEShvLzgsTCR72pvI5B6pV9RWy5mYEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
