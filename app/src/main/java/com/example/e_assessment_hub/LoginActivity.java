@@ -7,11 +7,12 @@ import android.widget.EditText;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import com.google.firebase.auth.FirebaseAuth;
+import android.widget.Button;
 
 public class LoginActivity extends AppCompatActivity {
 
     private EditText emailEditText, passwordEditText;
-    private android.widget.Button loginButton, signupRedirectButton; // Explicitly specify android.widget.Button
+    private Button loginButton, signupRedirectButton; // Explicitly specify android.widget.Button
     private FirebaseAuth mAuth;
 
     @Override
